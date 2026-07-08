@@ -104,3 +104,17 @@ You should see:
 Example:
 
 ![alt text](image-8.png)
+
+##Copy folder from Windows to Linux
+
+Using **scp**
+
+Example:I want copy file **iot_kit-0.0.1-SNAPSHOT.jar**  to **/home/linux/Documents/iot**
+```Bash
+scp -r iot_kit-0.0.1-SNAPSHOT.jar linux@192.168.1.100:/home/linux/Documents/iot
+```
+Open CMD window:
+<img width="1064" height="98" alt="image" src="https://github.com/user-attachments/assets/59b0421a-b675-492f-8c53-00e101989559" />
+Verify on Linux:
+<img width="315" height="48" alt="image" src="https://github.com/user-attachments/assets/917adfe1-834f-4fd7-80e6-368b106e5ea5" />
+
