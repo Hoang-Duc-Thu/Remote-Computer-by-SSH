@@ -1,5 +1,6 @@
 # Connect to a remote computer using SSH protocol
-![Uploading image.png…]()
+<img width="553" height="553" alt="image" src="https://github.com/user-attachments/assets/931b73ad-1072-452d-a927-0ee98aa18bce" />
+
 
 ## What is ssh?
 
